@@ -1,0 +1,6 @@
+{
+  "name": "Design Portfolio",
+  "description": "A high-performance personal portfolio for a UI/UX and Product Designer, featuring smooth animations, case studies, and an interactive project brief form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
